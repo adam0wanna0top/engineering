@@ -1,0 +1,8 @@
+IMPORTANT
+底盘与摩擦轮(can口)id冲突
+pid未调(pitch, yaw, chassis)
+
+DONE
+基本功能完善
+云台底盘回正跟随
+小陀螺

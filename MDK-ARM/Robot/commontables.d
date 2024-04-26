@@ -1,0 +1,11 @@
+robot\commontables.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\CommonTables\CommonTables.c
+robot\commontables.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\CommonTables\arm_common_tables.c
+robot\commontables.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Include\arm_math.h
+robot\commontables.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+robot\commontables.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+robot\commontables.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+robot\commontables.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+robot\commontables.o: D:\MDK5\ARM\ARMCC\Bin\..\include\math.h
+robot\commontables.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Include\arm_common_tables.h
+robot\commontables.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\CommonTables\arm_const_structs.c
+robot\commontables.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Include\arm_const_structs.h

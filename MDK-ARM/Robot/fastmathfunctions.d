@@ -1,0 +1,16 @@
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\FastMathFunctions.c
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_cos_f32.c
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Include\arm_math.h
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h
+robot\fastmathfunctions.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h
+robot\fastmathfunctions.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+robot\fastmathfunctions.o: D:\MDK5\ARM\ARMCC\Bin\..\include\math.h
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Include\arm_common_tables.h
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_cos_q15.c
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_cos_q31.c
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sin_f32.c
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sin_q15.c
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sin_q31.c
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sqrt_q15.c
+robot\fastmathfunctions.o: D:\MDK5\ARM\CMSIS\5.5.1\CMSIS\DSP\Source\FastMathFunctions\arm_sqrt_q31.c

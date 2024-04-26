@@ -1,0 +1,1 @@
+CAN_SHOOT_ALL_ID

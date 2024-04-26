@@ -1,0 +1,11 @@
+robot\user_task.o: ..\Robot\Tasks\User_Task.c
+robot\user_task.o: ..\Robot\Tasks\User_Task.h
+robot\user_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+robot\user_task.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+robot\user_task.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+robot\user_task.o: ../Inc/FreeRTOSConfig.h
+robot\user_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+robot\user_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+robot\user_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+robot\user_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+robot\user_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
